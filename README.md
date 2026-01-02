@@ -34,7 +34,7 @@ A high-performance, stream-safe overlay designed to visualize hidden blocks in M
 
 ### Prerequisites
 
-1. **Minecraft:** An active instance running [Minescript](https://minescript.org/).
+1. **Minecraft:** An active instance running [Minescript](https://minescript.net/).
 2. **Display Mode:** Minecraft must be running in **Windowed** or **Borderless Windowed** mode.
 3. **Python:** Version 3.10+ installed (via [python.org](https://www.python.org/) or Microsoft Store).
 4. **Script Setup:** Place `Minescript_scanner.py` into your `.minecraft/minescript` directory.

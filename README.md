@@ -43,7 +43,7 @@ A high-performance, stream-safe overlay designed to visualize hidden blocks in M
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/streamproof-xray.git
+   git clone https://github.com/nxghtCry0/streamproof-xray.git
    cd streamproof-xray
    ```
 2. **Launch the Overlay:**

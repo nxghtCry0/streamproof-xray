@@ -1,0 +1,58 @@
+{
+    "blocks": {
+        "minecraft:diamond_ore": {
+            "r": 0,
+            "g": 255,
+            "b": 255,
+            "a": 255,
+            "name": "Diamond"
+        },
+        "minecraft:deepslate_diamond_ore": {
+            "r": 0,
+            "g": 255,
+            "b": 255,
+            "a": 255,
+            "name": "Deepslate Diamond"
+        },
+        "minecraft:gold_ore": {
+            "r": 255,
+            "g": 215,
+            "b": 0,
+            "a": 255,
+            "name": "Gold"
+        },
+        "minecraft:deepslate_gold_ore": {
+            "r": 255,
+            "g": 215,
+            "b": 0,
+            "a": 255,
+            "name": "Deepslate Gold"
+        },
+        "minecraft:ancient_debris": {
+            "r": 139,
+            "g": 69,
+            "b": 19,
+            "a": 255,
+            "name": "Ancient Debris"
+        },
+        "minecraft:emerald_ore": {
+            "r": 0,
+            "g": 255,
+            "b": 0,
+            "a": 255,
+            "name": "Emerald"
+        },
+        "minecraft:deepslate_emerald_ore": {
+            "r": 0,
+            "g": 255,
+            "b": 0,
+            "a": 255,
+            "name": "Deepslate Emerald"
+        }
+    },
+    "scan_radius": 16,
+    "fov": 90,
+    "window_title": "Minecraft*",
+    "calibration_hotkey": "x",
+    "ethics_accepted": false
+}
